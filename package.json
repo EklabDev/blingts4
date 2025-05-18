@@ -1,6 +1,6 @@
 {
   "name": "@eklabdev/blingts4",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A comprehensive TypeScript decorators library implementing Stage 2 decorators for TS 4.9+",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
